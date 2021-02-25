@@ -1,6 +1,4 @@
 Testing JIRA integration
 
-Testing merging PR automation
-Testing transition
+Testing webhook
 
-Testing TW-5
